@@ -7,7 +7,7 @@ class Program
     {
         while (true)
         {
-            Console.WriteLine("what have you done?");
+            Console.WriteLine("what havent you done?");
             Thread.Sleep(200); 
         }
     }
